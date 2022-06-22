@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/yashdaswani/portfolio.git/static/css/main.aafdf838.css",
+    "main.js": "/yashdaswani/portfolio.git/static/js/main.43295814.js",
+    "static/js/787.ec269026.chunk.js": "/yashdaswani/portfolio.git/static/js/787.ec269026.chunk.js",
+    "static/media/ph.jpg": "/yashdaswani/portfolio.git/static/media/ph.3e7895de2313d871fd79.jpg",
+    "static/media/background.png": "/yashdaswani/portfolio.git/static/media/background.b3286a9a6ac2733c61bd.png",
+    "static/media/skill.png": "/yashdaswani/portfolio.git/static/media/skill.af6987d04a5b9034ab8b.png",
+    "index.html": "/yashdaswani/portfolio.git/index.html",
+    "main.aafdf838.css.map": "/yashdaswani/portfolio.git/static/css/main.aafdf838.css.map",
+    "main.43295814.js.map": "/yashdaswani/portfolio.git/static/js/main.43295814.js.map",
+    "787.ec269026.chunk.js.map": "/yashdaswani/portfolio.git/static/js/787.ec269026.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aafdf838.css",
+    "static/js/main.43295814.js"
+  ]
+}
